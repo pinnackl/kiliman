@@ -37,4 +37,9 @@ jspm_packages
 .node_repl_history
 
 # Kiliman server
+
+# Horizon server config
 .hz/config.toml
+
+# Chateau config
+config.js
